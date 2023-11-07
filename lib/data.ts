@@ -57,20 +57,20 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "HomeVista",
+    title: "Ecommerce website",
     description:
-      "A comprehensive Real Estate or hotel booking system, enabling users to effortlessly search, browse and book accommodations.",
-    githubLink:"https://github.com/pranav4112/HomeVista",
-    liveLink:"https://www.homevista.live",
+      "Explore a fully functional Ecommerce website, a React, Next.js, and Node.js project built for learning and shopping convenience.",
+    githubLink:"https://github.com/tony83033/Ecommerce-Website",
+    liveLink:"https://github.com/tony83033/Ecommerce-Website",
     tags: ["React", "Node.js","Express.js", "MongoDB", "Tailwind CSS"],
     imageUrl: HomeVistaImg,
   },
   {
-    title: "ImageBox",
+    title: "Cloud-Note",
     description:
-      "Created an engaging Image Gallery app, displaying over 1,000 high-resolution images from diverse sources",
-    githubLink:"https://github.com/pranav4112/ImageBox",
-    liveLink:"https://img-box.vercel.app",
+      "Cloud-Note: Elevate your note-taking experience with React, REST API, and Node.js integration.",
+    githubLink:"https://github.com/tony83033/Cloud-Note",
+    liveLink:"https://github.com/tony83033/Cloud-Note",
     tags: ["React", "Javascript", "HTML", "CSS", "REST Api"],
     imageUrl: ImageBoxImg,
   },
