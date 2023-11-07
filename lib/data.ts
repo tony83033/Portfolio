@@ -38,18 +38,18 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "PACE Junior College",
-    location: "Thane, Maharashtra",
+    title: "Sardar patel Inter college",
+    location: "Kanpur, UP",
     description:
-      "I did 2 years of JEE preparation in PACE Junior College",
+      "I completed my 10 + 2 education from Sardar Patel Inter college",
     icon: React.createElement(LuGraduationCap),
-    date: "2018 - 2020",
+    date: "2020 - 2022",
   },
   {
-    title: "Indian Institute of Information Technology, Nagpur",
-    location: "Nagpur, Maharashtra",
+    title: "Dr. A. P. J. Abdul Kalam Technical University, Lucknow",
+    location: "Lucknow , UP",
     description:
-      "Currently persuing my B.Tech in Electronics and Communication Engineering at IIIT Nagpur.",
+      "Currently persuing my B.Tech in Computer Science Engineering at AKTU.",
     icon: React.createElement(CgWorkAlt),
     date: "2020 - 2024",
   }
