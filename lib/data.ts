@@ -96,8 +96,8 @@ export const projectsData = [
     title: "Portfolio",
     description:
       "Crafted a comprehensive portfolio that effectively showcases a range of my projects and skills",
-    githubLink:"https://github.com/pranav4112/Portfolio",
-    liveLink:"https://www.pranavshastri.me",
+    githubLink:"https://github.com/tony83033/Portfolio",
+    liveLink:"https://portfolio-two-eta-20.vercel.app/",
     tags: ["Next.js", "React.js", "Typescript", "Tailwind", "Framer motion"],
     imageUrl: PortfolioImg,
   },
