@@ -75,12 +75,12 @@ export const projectsData = [
     imageUrl: ImageBoxImg,
   },
   {
-    title: "BlueChat",
+    title: "Covid-19 Tracker",
     description:
-      "A real-time chat application using React Native, facilitating seamless communication among users.",
-    githubLink:"https://github.com/pranav4112/BlueChat",
-    liveLink:"",
-    tags: ["React native", "javascript", "Native wind", "Firebase", "CSS"],
+      "Stay informed with our live COVID-19 case tracking website, built using Django and Bootstrap for a user-friendly experience.",
+    githubLink:"https://github.com/tony83033/Covid-19",
+    liveLink:"https://github.com/tony83033/Covid-19",
+    tags: ["Django", "javascript", "Bootstrap", "SQLlite", "Python"],
     imageUrl: BlueChatImg,
   },
   {
