@@ -51,7 +51,7 @@ export const experiencesData = [
     description:
       "Currently persuing my B.Tech in Computer Science Engineering at AKTU.",
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2024",
+    date: "2022 - 2026",
   }
 ] as const;
 
